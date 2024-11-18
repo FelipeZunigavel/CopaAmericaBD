@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6738f2bbfbe0294b75598303"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a7f4cfbe0294b7559833f"
+  },
+  "grupoId": "A",
+  "equipoId": "equipo_1",
+  "partidosJugados": 5,
+  "victorias": 3,
+  "empates": 1,
+  "derrotas": 1,
+  "golesFavor": 8,
+  "golesContra": 3,
+  "diferenciaGoles": 5,
+  "puntos": 10
+}]

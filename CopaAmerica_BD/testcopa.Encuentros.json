@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6738f290fbe0294b755982fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a80ebfbe0294b7559836d"
+  },
+  "encuentroId": "encuentro_101",
+  "fecha": {
+    "$date": "2025-11-20T18:00:00.000Z"
+  },
+  "equipo1Id": "equipo_1",
+  "equipo2Id": "equipo_2",
+  "golesEquipo1": 2,
+  "golesEquipo2": 1,
+  "arbitroId": "arbitro_1"
+}]

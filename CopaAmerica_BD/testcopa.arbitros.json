@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6738f27bfbe0294b755982fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a7fcdfbe0294b75598357"
+  },
+  "arbitroId": "arbitro_1",
+  "nombre": "Carlos",
+  "apellido": "Gómez",
+  "rol": "central"
+}]

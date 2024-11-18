@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6738f26dfbe0294b755982f7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6738f56afbe0294b75598310"
+  },
+  "nombre": "Tite",
+  "rol": "Entrenador",
+  "seleccion": {
+    "$oid": "6738f373fbe0294b7559830b"
+  }
+}]

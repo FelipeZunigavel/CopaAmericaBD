@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6738f232fbe0294b755982f1"
+  }
+},
+{
+  "_id": {
+    "$oid": "67392374c7e3bfaff7578a34"
+  },
+  "nombre": "Lionel",
+  "apellido": "Messi",
+  "nacionalidad": "Argentina",
+  "posicion": "DC",
+  "lesion": true,
+  "numeroCamiseta": "10",
+  "seleccionId": {
+    "$oid": "673920f0fbe0294b7559831d"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a7cbac7e3bfaff7578a35"
+  },
+  "nombre": "Neymar",
+  "Apellido": "Santos",
+  "nacionalidad": "Brazil",
+  "posicion": "ED",
+  "lesion": false,
+  "numeroCamiseta": "10",
+  "SeleccionId": {
+    "$oid": "673a7750083985fb7e6dbc85"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a8a6a9656800b027278a5"
+  },
+  "Nombre": "james",
+  "apellido": "Rodrigrez",
+  "nacionalidad": "Colombia",
+  "posicion": "MCO",
+  "lesion": false,
+  "numeroCamiseta": "10",
+  "seleccionId": "673a897787fa37a45f391d1d"
+}]

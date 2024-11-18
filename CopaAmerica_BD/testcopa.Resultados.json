@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6738f2a0fbe0294b75598300"
+  }
+},
+{
+  "_id": {
+    "$oid": "673a8026fbe0294b7559835d"
+  },
+  "encuentroId": "encuentro_101",
+  "puntosEquipo1": 3,
+  "puntosEquipo2": 0,
+  "golesEquipo1": 2,
+  "golesEquipo2": 1
+}]

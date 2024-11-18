@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6738f30efbe0294b75598309"
+  }
+},
+{
+  "_id": {
+    "$oid": "673920f0fbe0294b7559831d"
+  },
+  "Nombre": "Argentina",
+  "Entrenador": "el cholo",
+  "grupo": "A"
+},
+{
+  "_id": {
+    "$oid": "673a7750083985fb7e6dbc85"
+  },
+  "Nombre": "Brazil",
+  "Entrenador": "Tite",
+  "Grupo": "B"
+},
+{
+  "_id": {
+    "$oid": "673a897787fa37a45f391d1d"
+  },
+  "Nombre": "Colombia",
+  "Entrenador": "",
+  "Grupo": "C"
+}]
